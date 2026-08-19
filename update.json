@@ -1,1 +1,1 @@
-{"versionCode":8,"versionName":"2.6","force":false,"apkUrl":"https://raw.githubusercontent.com/Hacker3602/OxVPNversion/main/apk/0xVpn.apk","changelog":"Fix crash on connect: engine failures now surface as errors, native/JNI and service-start paths guarded"}
+{"versionCode":9,"versionName":"2.7","force":false,"apkUrl":"https://raw.githubusercontent.com/Hacker3602/OxVPNversion/main/apk/0xVpn.apk","changelog":"Fix authentication failures: VPN Gate OpenVPN feed re-enabled (servers verified working), dead IKEv2 pool removed from catalogue"}
