@@ -1,1 +1,1 @@
-{"versionCode":7,"versionName":"2.5","force":false,"apkUrl":"https://raw.githubusercontent.com/Hacker3602/OxVPNversion/main/apk/0xVpn.apk","changelog":"VPN Gate feed disabled for now; stale cached servers purged on upgrade"}
+{"versionCode":8,"versionName":"2.6","force":false,"apkUrl":"https://raw.githubusercontent.com/Hacker3602/OxVPNversion/main/apk/0xVpn.apk","changelog":"Fix crash on connect: engine failures now surface as errors, native/JNI and service-start paths guarded"}
