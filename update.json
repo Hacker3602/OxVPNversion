@@ -1,1 +1,1 @@
-{"versionCode":6,"versionName":"2.4","force":false,"apkUrl":"https://raw.githubusercontent.com/Hacker3602/OxVPNversion/main/apk/0xVpn.apk","changelog":"Update check runs on every open (no 10-min delay)"}
+{"versionCode":7,"versionName":"2.5","force":false,"apkUrl":"https://raw.githubusercontent.com/Hacker3602/OxVPNversion/main/apk/0xVpn.apk","changelog":"VPN Gate feed disabled for now; stale cached servers purged on upgrade"}
